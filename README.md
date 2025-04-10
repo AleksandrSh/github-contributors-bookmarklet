@@ -61,12 +61,12 @@ To avoid hitting API rate limits and to access more contributors, it’s recomme
 
 You can see how the bookmarklet works in this short demo:
 
-👉 [Watch the video](https://raw.githubusercontent.com/AleksandrSh/github-contributors-bookmarklet/main/media/GitHub_Repo_%20Contributors_Extractor_demo.mp4)
+👉 [Watch the YouTube video](https://youtube.com/shorts/Lghmm4tjRTo)
 
 Or embed it directly (if supported by your markdown viewer):
 
-```htmlhtml
-<video src="media/GitHub_Repo_%20Contributors_Extractor_demo.mp4" controls width="700"></video>
+```html
+<video src="https://www.youtube.com/embed/Lghmm4tjRTo" controls width="700"></video>
 ```
 
 ---
