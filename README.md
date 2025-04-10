@@ -41,5 +41,21 @@ javascript:(async function(){if(document.getElementById('gh_contrib_modal'))retu
 
 ---
 
+## 🔐 How to Get a GitHub Token
+
+To avoid hitting API rate limits and to access more contributors, it’s recommended to use a **GitHub Personal Access Token (PAT)**.
+
+### Steps:
+1. Go to [https://github.com/settings/tokens](https://github.com/settings/tokens)
+2. Click **"Generate new token"** (classic).
+3. Give your token a name (e.g., `Bookmarklet Use`).
+4. Select **only** the `public_repo` permission (this is enough for public repos).
+5. Click **Generate token**.
+6. Copy the token and **store it securely** (you’ll only see it once).
+
+> ⚠️ This token is saved only in your browser's local storage and never leaves your machine.
+
+---
+
 **Happy Exploring! 🎉**
 
