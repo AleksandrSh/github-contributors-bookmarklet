@@ -61,7 +61,7 @@ To avoid hitting API rate limits and to access more contributors, it’s recomme
 
 You can see how the bookmarklet works in this short demo:
 
-👉 [Watch the YouTube video](https://youtube.com/shorts/Lghmm4tjRTo)
+👉 [Watch the YouTube video](https://youtube.com/shorts/Lghmm4tjRTo){:target="_blank"}
 
 Or embed it directly (if supported by your markdown viewer):
 
