@@ -63,7 +63,7 @@ You can see how the bookmarklet works in this short demo:
 
 👉 [![Watch the demo video](https://img.youtube.com/vi/Lghmm4tjRTo/hqdefault.jpg)](https://www.youtube.com/watch?v=Lghmm4tjRTo)
 
-Or embed it directly (if supported by your markdown viewer):
+Or view the embedded video below if you're using a Markdown viewer that supports HTML (like VS Code or GitHub Pages):
 
 ```html
 <iframe width="700" height="394" src="https://www.youtube.com/embed/Lghmm4tjRTo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
