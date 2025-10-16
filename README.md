@@ -1,4 +1,4 @@
-# 🔍 GitHub Contributors by Location (Bookmarklet)
+# 🔍 GitHub Contributors Extractor by Location (Bookmarklet)
 
 This simple bookmarklet allows you to quickly find GitHub contributors to any repository, filtered by location, right from your browser!
 
